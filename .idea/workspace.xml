@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1aa2226e-9271-4d20-8eb3-5f5ed5f5207d" name="Changes" comment="d">
-      <change afterPath="$PROJECT_DIR$/src/streamApi/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamApi/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamApi/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamApi/ВыводСловСОднойБуквыВВерхнемРеги.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streamApi/ПосчитатьвсеЦифры.java" afterDir="false" />
+    <list default="true" id="1aa2226e-9271-4d20-8eb3-5f5ed5f5207d" name="Changes" comment="delete test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,16 +33,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -81,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="streamApi.ВыводСловСОднойБуквыВВерхнемРеги" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streamApi.ВыводСловСОднойБуквыВВерхнемРеги" />
+    <configuration name="streamApi.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamApi.Main" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="streamApi.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streamApi.Main" />
+    <configuration name="streamApi.ВыводСловСОднойБуквыВВерхнемРеги" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streamApi.ВыводСловСОднойБуквыВВерхнемРеги" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -125,7 +120,6 @@
         <item itemvalue="Application.test" />
         <item itemvalue="Application.ПосчитатьвсеЦифры" />
         <item itemvalue="Application.streamApi.Main" />
-        <item itemvalue="Application.streamApi.ВыводСловСОднойБуквыВВерхнемРеги" />
         <item itemvalue="Application.streamApi.отсортироватьЧислаПоВозростанию" />
       </list>
     </recent_temporary>
@@ -153,7 +147,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671704383598</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="d">
+      <created>1671719038549</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671719038549</updated>
+    </task>
+    <task id="LOCAL-00004" summary="delete test">
+      <created>1671719183866</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671719183866</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,7 +169,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -169,6 +189,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="d" />
-    <option name="LAST_COMMIT_MESSAGE" value="d" />
+    <MESSAGE value="delete test" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete test" />
   </component>
 </project>
